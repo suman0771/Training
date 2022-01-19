@@ -10,6 +10,7 @@ int main()
     {
         cin >> arr[i];
     }
+    cout<<"the array elements are = \n";
     for (int i = 0; i < n; i++)
     {
         cout << arr[i] << "\t";
